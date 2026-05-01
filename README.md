@@ -3,6 +3,6 @@ File description:
     <details>
       <summary>Example of Combine_csv_angle_file_2</summary>
     
-      <img width="204" height="650" alt="image" src="https://github.com/user-attachments/assets/5fd73230-e55f-4d6c-a01e-59b2c438027f" />
+      <img width="194" height="644" alt="image" src="https://github.com/user-attachments/assets/bb53b505-0df6-4054-a2fc-b6055d803211" />
     
     </details>
