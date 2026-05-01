@@ -1,5 +1,6 @@
 # File description:
 ## Crop_multiple_heic_image - Crop multiple HEIC files in the same area/location for measuring contact angle correctly in ImageJ
+
    <details>
       <summary>Example of Crop_multiple_heic_image</summary>
         1. Choose a file with all the HEIC images you want to crop
