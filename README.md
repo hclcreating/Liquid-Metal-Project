@@ -1,6 +1,6 @@
 # File description:
 
-## Crop_multiple_heic_image - Crop multiple HEIC files in the same area/location for measuring contact angle correctly in ImageJ
+1. Crop_multiple_heic_image - Crop multiple HEIC files in the same area/location for measuring contact angle correctly in ImageJ
 
    <details>
       <summary>Example of Crop_multiple_heic_image</summary>
@@ -13,7 +13,7 @@
 
     </details>
     
-## Combine_csv_angle_file_2 - combine all CSV files with angles from ImageJ to a single file
+2. Combine_csv_angle_file_2 - combine all CSV files with angles from ImageJ to a single file
     <details>
       <summary>Example of Combine_csv_angle_file_2</summary>
         a. CSV file with left and right angles:
